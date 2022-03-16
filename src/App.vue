@@ -111,52 +111,52 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "Spectre",
+          "callsign": "Puppet Master",
           "alias": "Adam Geist",
           "code": "a485b10d-760b-44e2-8bce-643fe941c803//d5761423-3978-4e8d-8167-bfc72ffe80e3//NDL-C-DEEP-STATION",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Efficacious Grace"
+          "corpro": "Horus",
+          "frame": "Hydra",
+          "mech": "Malformed Puppet"
         },
         {
           "callsign": "Sunrise",
           "alias": "Ren Shou Tomesch Lewton",
           "code": "",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "A Profound Problem"
+          "corpro": "SSC",
+          "frame": "Death's Head",
+          "mech": "The Final Problem"
         },
         {
           "callsign": "Goose",
           "alias": "Nick Bradshaw",
           "code": "9dfab210-672d-4611-9191-1f0b597b15a1//d441fb56-2266-4051-9072-476c42690f56//NDL-C-DEEP-STATION",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Atrocious Acts At Affordable Prices"
+          "corpro": "SSC",
+          "frame": "Metalmark",
+          "mech": "Riskiest Assumption"
         },
         {
           "callsign": "Pharaoh",
           "alias": 'Clarissa "Rissa" Pentecost',
           "code": "",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Sarcophagus MKII"
+          "corpro": "IPS-N",
+          "frame": "Lancaster",
+          "mech": "Sarcophagus"
         },
         {
           "callsign": "Strange Cargo",
           "alias": "Johannus Mammen-Dovenbarger",
           "code": "",
-          "corpro": "GMS",
-          "frame": "Sagarmatha",
-          "mech": "No Viable Alternative"
+          "corpro": "IPS-N",
+          "frame": "Caliban",
+          "mech": "Don't Say I Didn't Warn You"
         },
         {
           "callsign": "Sandman",
           "alias": "Jimothy Salads",
           "code": "bd6f2e77-2eea-48c2-ab77-d0e70efed06f// 718275c4-a2f9-47c4-959f-b1d8cd2a196//NDL- C-DEEP-STATION",
-          "corpro": "GMS",
-          "frame": "Everest",
-          "mech": "Not In My Backyard MKII"
+          "corpro": "HA",
+          "frame": "Iskander",
+          "mech": "Regulatory Sandbox"
         },
       ],
       "header": {
